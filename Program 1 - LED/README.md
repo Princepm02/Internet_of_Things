@@ -24,6 +24,11 @@ Before you get started, make sure you have the following:
 
 3. Make sure your hardware connections match the program's pin assignments in the code.
 
+<div align="center">
+<!-- ![Setup](https://github.com/Princepm02/Internet_of_Things/assets/91951172/98e9fa76-a0a1-490b-9669-2b48b40f31d4) -->
+<img src="https://github.com/Princepm02/Internet_of_Things/assets/91951172/98e9fa76-a0a1-490b-9669-2b48b40f31d4" alt="Setup" width="600" />
+</div>
+
 ## Upload the Code
 
 1. Open the Arduino IDE on your computer.
