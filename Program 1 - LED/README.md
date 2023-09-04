@@ -34,7 +34,7 @@ Before you get started, make sure you have the following:
 
 1. Open the Arduino IDE on your computer.
 
-2. Copy the provided Arduino code (from this README) and paste it into a new Arduino sketch.
+2. Copy the provided Arduino code from `Program_1_LED.ino` and paste it into a new Arduino sketch.
 
 3. Connect your Arduino UNO to your computer via USB.
 
