@@ -5,26 +5,35 @@ void setup()
   pinMode(LedPin2,OUTPUT);
   pinMode(LedPin3,OUTPUT);
   pinMode(LedPin4,OUTPUT);
+  Serial.begin(9600);
 }
 void loop()
 {
   digitalWrite(LedPin1,HIGH);
-  delay(300);
+  Serial.println("LED 1 is ON");
+  delay(500);
   digitalWrite(LedPin1,LOW);
-  delay(300);
+  Serial.println("LED 1 is OFF");
+  delay(500);
   
   digitalWrite(LedPin2,HIGH);
-  delay(300);
+  Serial.println("LED 2 is ON");
+  delay(500);
   digitalWrite(LedPin2,LOW);
-  delay(300);
+  Serial.println("LED 2 is OFF");
+  delay(500);
   
   digitalWrite(LedPin3,HIGH);
-  delay(300);
+  Serial.println("LED 3 is ON");
+  delay(500);
   digitalWrite(LedPin3,LOW);
-  delay(300);
+  Serial.println("LED 3 is OFF");
+  delay(500);
   
   digitalWrite(LedPin4,HIGH);
-  delay(300);
+  Serial.println("LED 4 is ON");
+  delay(500);
   digitalWrite(LedPin4,LOW);
-  delay(300);
+  Serial.println("LED 4 is OFF");
+  delay(500);
 }
