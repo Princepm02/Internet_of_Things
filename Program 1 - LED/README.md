@@ -44,7 +44,15 @@ Before you get started, make sure you have the following:
 
 ## Running the Program
 
-Once you've uploaded the code to your Arduino UNO, the program will run automatically. The LEDs connected to digital pins 10, 11, 12, and 13 will blink in sequence. Each LED will turn on for 300 milliseconds and then turn off for 300 milliseconds before the next LED starts.
+Once you've uploaded the code to your Arduino UNO, the program will run automatically. The LEDs connected to digital pins 10, 11, 12, and 13 will blink in sequence, and their ON/OFF status will be displayed on the console screen. Each LED will turn on for 500 milliseconds and then turn off for 500 milliseconds before the next LED starts.
+
+Here's what happens when the program runs:
+
+- LED 1 turns ON, and "LED 1 is ON" is displayed on the console.
+- After a delay of 500 milliseconds, LED 1 turns OFF, and "LED 1 is OFF" is displayed on the console.
+- This process repeats for LED 2, LED 3, and LED 4 in sequence, with their status messages being printed on the console.
+
+You can monitor the status of the LEDs in real-time on the Arduino IDE's serial monitor.
 
 ## Customization
 
@@ -57,3 +65,4 @@ You can customize this program in various ways:
 Feel free to adapt this program to your IoT project's specific requirements.
 
 Happy tinkering!
+
