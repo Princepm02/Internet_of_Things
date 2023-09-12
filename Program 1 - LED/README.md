@@ -64,5 +64,6 @@ You can customize this program in various ways:
 
 Feel free to adapt this program to your IoT project's specific requirements.
 
+---
 Happy tinkering!
 
