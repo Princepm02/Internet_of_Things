@@ -13,7 +13,7 @@ To get started, you'll need the following components:
 
 Here's a screenshot of the circuit setup in Tinkercad:
 
-![Circuit Screenshot](https://github.com/Princepm02/Internet_of_Things/assets/91951172/ee47f92f-5202-4c2f-a905-e7b0ffd7940d)
+![Circuit Screenshot](https://github.com/Princepm02/Internet_of_Things/assets/91951172/7e4920ab-c070-421a-8a81-310fa0e9fa3b)
 
 ## How It Works
 
