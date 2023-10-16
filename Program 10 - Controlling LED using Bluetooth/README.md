@@ -10,6 +10,11 @@ This Arduino program allows you to control an LED connected to pin 13 of the Ard
 - 220-ohm resistor
 - Jumper Wires
 
+## Circuit Diagram
+
+![image](https://github.com/Princepm02/Internet_of_Things/assets/91951172/8e2a81bc-bc8d-4217-972d-7da60d0bf0a8)
+
+
 ## Installation
 
 1. Upload the provided Arduino sketch to your Arduino Uno board.
